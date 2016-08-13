@@ -1,1 +1,1 @@
-# Thinkful-React-MentorSession
+# TimothyMentorSession-React-App
